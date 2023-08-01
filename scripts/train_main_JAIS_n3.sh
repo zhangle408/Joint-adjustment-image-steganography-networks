@@ -2,7 +2,7 @@
 
 
 #---in PyramidNet--------------------------------------------
-CUDA_VISIBLE_DEVICES=0,1,2,3 python main_coarsetofine.py \
+CUDA_VISIBLE_DEVICES=0,1,2,3 python main_JAIS_n3.py \
 --imageSize=128 \
 --bs_secret=44 \
 --num_training=1 \
@@ -16,4 +16,4 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python main_coarsetofine.py \
 --alpha=1 \
 --beta=0.75 \
 --cover_dependent=1 \
---remark='main_coarsetofine' 
+--remark='main_coarsetofine_3' 
