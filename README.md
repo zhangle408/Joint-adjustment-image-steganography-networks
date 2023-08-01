@@ -20,7 +20,7 @@ You are able to run the provided demo code.
 If you found our research helpful or influential please consider citing
 
 
-### BibTex
+### BibTeX
 @article{zhang2023joint,
   title={Joint adjustment image steganography networks},
   author={Zhang, Le and Lu, Yao and Li, Tong and Lu, Guangming},
