@@ -10,7 +10,7 @@ You are able to run the provided demo code.
 
 2. Change the data path on lines 210-220 of train_dah.sh
 
-(Images for training exist in traindir and valdir, and images for visualization exist in coverdir and secretdir ).
+   (Images for training exist in traindir and valdir, and images for visualization exist in coverdir and secretdir ).
 
 3. ''' sh train_JAIS_n2.sh '''(when the numbers of iterative processes in the hiding stage n=2)
 
