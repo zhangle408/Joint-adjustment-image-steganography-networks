@@ -1,7 +1,16 @@
 # Joint-adjustment-image-steganography-networks
 Joint adjustment image steganography networks
+
+
+
  ![fig1.jpg](fig/fig1.jpg) 
+
+
+
  ![fig2.jpg](fig/fig2.jpg) 
+
+
+
 ## Requirements
 This code was developed and tested with Python3.6, Pytorch 1.5 and CUDA 10.2 on Ubuntu 18.04.5.
 
