@@ -1,5 +1,5 @@
 # Joint-adjustment-image-steganography-networks
-Joint adjustment image steganography networks
+Official PyTorch implementation of "Joint adjustment image steganography networks"
 
 
 
@@ -31,7 +31,7 @@ You are able to run the provided demo code.
    
    (when the numbers of iterative processes in the hiding stage n=3)
 
-## Citing
+## Citation
 If you found our research helpful or influential please consider citing
 
 
